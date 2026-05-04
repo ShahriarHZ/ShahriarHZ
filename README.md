@@ -21,8 +21,8 @@
 
 ## 🔭 Current Work
 - **digitools-app** — React + Tailwind digital tools suite
-- GitHub: [digitools-app](https://github.com/ShahriarHZ/digitools-app)  
-- Live: [digitools-by-shahriar.netlify.app](https://digitools-by-shahriar.netlify.app)
+- GitHub: [https://github.com/ShahriarHZ/jackfruit](https://github.com/ShahriarHZ/jackfruit)
+- Live: [https://jackfruit-one.vercel.app/](https://jackfruit-one.vercel.app/)
 
 ---
 
