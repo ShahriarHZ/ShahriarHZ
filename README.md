@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Q7HNKCdd/Black-Minimal-Motivation-Quote-Linked-In-Banner.jpg" width="100%" />
+  <img src="[https://i.ibb.co.com/Q7HNKCdd/Black-Minimal-Motivation-Quote-Linked-In-Banner.jpg](https://i.ibb.co.com/JjGPBsrk/Cover.jpg)" width="100%" />
 </p>
 
 
