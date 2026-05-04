@@ -20,7 +20,7 @@
 ---
 
 ## 🔭 Current Work
-- **digitools-app** — React + Tailwind digital tools suite
+- **SunCart-app** — Next.js + MongoDB +Google Cloud Console + Daisy UI + Tailwind digital tools suite
 - GitHub: [https://github.com/ShahriarHZ/jackfruit](https://github.com/ShahriarHZ/jackfruit)
 - Live: [https://jackfruit-one.vercel.app/](https://jackfruit-one.vercel.app/)
 
